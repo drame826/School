@@ -50,9 +50,11 @@ https://docs.google.com/spreadsheets/d/1J4GWJNQByz2T47D_m4k6zWUwluNQUNp_nVeR1p-l
 ![Alt text](Mon_ecran_de_transition.png)
 
 ## ER diagramm
-![Alt text](Ma_ER.png)
+
 
 ## Vous avez là le lien pour accéder aux diagrammes ER et de transitions d'écrans
+
+
 https://drive.google.com/file/d/1rD--ZMH4qGH2_opvaVOiwbV8ieFffmfC/view?usp=sharing
 
 
